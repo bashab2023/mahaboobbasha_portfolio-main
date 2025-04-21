@@ -44,7 +44,7 @@ function Connect() {
 
     try {
       let response = await fetch(
-        "https://krishna-portfolio-server-henna.vercel.app/connect",
+        "https://mahaboobbasha-portfolio-main-6wyd.vercel.app/contact",
         {
           method: "POST",
           headers: {
