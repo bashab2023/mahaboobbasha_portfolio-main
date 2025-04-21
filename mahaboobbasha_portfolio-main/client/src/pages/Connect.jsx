@@ -44,7 +44,7 @@ function Connect() {
 
     try {
       let response = await fetch(
-        "https://mahaboobbasha-portfolio-main-6wyd.vercel.app/contact",
+        "https://mahaboobbasha-portfolio-main-6wyd.vercel.app/connect",
         {
           method: "POST",
           headers: {
